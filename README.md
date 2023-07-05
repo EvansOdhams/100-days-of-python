@@ -1,7 +1,7 @@
 # 100-days-of-python - The Complete Python Pro Bootcamp
 Welcome to the "100 Days of Code: The Complete Python Pro Bootcamp"! This comprehensive bootcamp is designed to help you become a proficient Python programmer in just 100 days. Whether you're a beginner with no prior coding experience or an experienced programmer looking to enhance your Python skills, this course is perfect for you.
 
-##Overview
+## Overview
 The "100 Days of Code: The Complete Python Pro Bootcamp" is divided into 100 days of intensive learning and coding exercises. Each day, you will receive a new topic to study, accompanied by interactive coding exercises and projects to reinforce your understanding. This bootcamp follows a hands-on approach, ensuring that you gain practical experience alongside theoretical knowledge.
 
 ## Features
